@@ -1,0 +1,80 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/include",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/src",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/Switch",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/RotaryEncoder/src",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/AccelStepper/src",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/TMCStepper/src",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/SoftwareSerial",
+                "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/U8g2/src",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "/Users/patrickriebli/.platformio/lib/Adafruit BusIO",
+                "/Users/patrickriebli/.platformio/lib/Adafruit GFX Library",
+                "/Users/patrickriebli/.platformio/lib/Adafruit Si7021 Library",
+                "/Users/patrickriebli/.platformio/lib/Adafruit TFTLCD Library",
+                "/Users/patrickriebli/.platformio/lib/ESP Async WebServer_ID306/src",
+                "/Users/patrickriebli/.platformio/lib/ESP32 Mail Client/src",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/include",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/src",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/Switch",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/RotaryEncoder/src",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/AccelStepper/src",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/TMCStepper/src",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/SoftwareSerial",
+                    "/Users/patrickriebli/Documents/PlatformIO/Projects/Cutter/.pio/libdeps/nanoatmega328/U8g2/src",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "/Users/patrickriebli/.platformio/lib/Adafruit BusIO",
+                    "/Users/patrickriebli/.platformio/lib/Adafruit GFX Library",
+                    "/Users/patrickriebli/.platformio/lib/Adafruit Si7021 Library",
+                    "/Users/patrickriebli/.platformio/lib/Adafruit TFTLCD Library",
+                    "/Users/patrickriebli/.platformio/lib/ESP Async WebServer_ID306/src",
+                    "/Users/patrickriebli/.platformio/lib/ESP32 Mail Client/src",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/Users/patrickriebli/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60115",
+                "ARDUINO_AVR_NANO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/Users/patrickriebli/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
